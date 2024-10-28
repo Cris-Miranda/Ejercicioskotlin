@@ -10,4 +10,5 @@ fun main(parametro: Array<String>) {
     var promedio = (nota1 + nota2 + nota3) / 3
     if (promedio >= 7)
         println("Promocionadossss si quieres hacerlo asi ")
+        println("Dale otro commit")
 }
