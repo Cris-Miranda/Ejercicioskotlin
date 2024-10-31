@@ -11,4 +11,5 @@ fun main(parametro: Array<String>) {
     if (promedio >= 7)
         println("Promocionadossss si quieres hacerlo asi ")
         println("Dale otro commit")
+        println("Dale otro commit")
 }
